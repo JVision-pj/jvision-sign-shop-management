@@ -6,6 +6,10 @@
 
 https://jvision-sign-shop-management.vercel.app
 
+## 專案海報
+
+[![Jvision 招牌店務與工單管理平台海報](docs/marketing/jvision-sign-shop-management-poster.png)](docs/marketing/jvision-sign-shop-management-poster.png)
+
 ## Demo 功能
 
 - 新增招牌工程案件與報價金額
