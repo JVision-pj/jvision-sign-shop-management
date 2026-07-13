@@ -2,6 +2,10 @@
 
 可互動展示的招牌店務 Demo，整合客戶線索、報價模板、製作工單、安裝排程、檔案管理、團隊任務與 AI 店務摘要。
 
+## 線上 Demo
+
+https://jvision-sign-shop-management.vercel.app
+
 ## Demo 功能
 
 - 新增招牌工程案件與報價金額
